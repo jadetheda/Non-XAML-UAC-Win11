@@ -21,7 +21,7 @@ set UAC_AUTHUI_MUI=authui.dll.mui
 :: Texts
 cls
 echo.
-echo Classic User Account Control for Windows 10
+echo Classic User Account Control for Windows 11
 echo ==========================================================================
 echo.
 
@@ -32,7 +32,7 @@ if NOT %ERRORLEVEL% == 0 (
 )
 
 echo This batch script will replace system files to restore the classic UAC from
-echo from Windows 10 v1607 in newer Windows 10. Only MUIs for en-US are provided by
+echo from Windows 10 v1607 in newer Windows 11. Only MUIs for en-US are provided by
 echo default. If you want to install this for another locale, grab those files from
 echo Windows 10 v1607, create a new folder with the locale code in "files", and put
 echo the files in there.
