@@ -1,6 +1,6 @@
 
 # Miss the old UAC dialog with native window stylings? You're in the right place!
-## Full credit goes to @aubymori and @ephemeralViolette
+## Full credit goes to [@aubymori](https://github.com/aubymori) and [@ephemeralViolette](https://github.com/ephemeralViolette/)
 
 ![themedOldUAC](https://github.com/user-attachments/assets/70e1ee9f-c676-4034-82ab-d890a117aae9)
 
