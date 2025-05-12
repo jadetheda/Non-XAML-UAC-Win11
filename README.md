@@ -1,5 +1,12 @@
+
+# Miss the old UAC dialog with native window stylings? You're in the right place!
+## Full credit goes to @aubymori and @ephemeralViolette
+
+![themedOldUAC](https://github.com/user-attachments/assets/70e1ee9f-c676-4034-82ab-d890a117aae9)
+
+
 This isn't really mine but 
-- The latest version available at https://aubymori.github.io/#!/files/classic-uac is broken for Windows 11, and shows and error when you try to elevate
+- The latest version available at https://aubymori.github.io/#!/files/classic-uac is broken for Windows 11, and shows an error when you try to elevate anything
   
 - The old version linked at https://web.archive.org/web/20240223150635/https://winclassic.net/thread/1778/non-xaml-uac-back
   - used an expired Discord attachment link, requiring you to send the link the in a server to refresh it,
@@ -9,5 +16,3 @@ So, I just replaced the resources in the new version with those from the old ver
 
 P.S. 
 GitHub 'fixed' the line endings on some of these dlls, and while that shouldn't affect anything, I have not independently verified this.
-
-[olduacfixed](https://github.com/user-attachments/assets/b7d5a03b-0a4f-4e69-b603-3ce6f7f8fa40)
