@@ -5,7 +5,7 @@
 ### Win10 Version: https://aubymori.github.io/#!/files/classic-uac
 ----
 #### Beware! The current version doesn't seem to support passkeys. 
-##### (While I have not verified that this tool is for certain the cause as of yet, it does seem to be.)
+##### (While I have not verified that this mod is for certain the cause as of yet, it does seem to be.)
 ![themedOldUAC](https://github.com/user-attachments/assets/70e1ee9f-c676-4034-82ab-d890a117aae9)
 
 ----
